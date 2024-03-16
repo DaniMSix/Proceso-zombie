@@ -1,0 +1,15 @@
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\bin\Debug\net8.0\AppConHilosATM.exe
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\bin\Debug\net8.0\AppConHilosATM.deps.json
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\bin\Debug\net8.0\AppConHilosATM.runtimeconfig.json
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\bin\Debug\net8.0\AppConHilosATM.dll
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\bin\Debug\net8.0\AppConHilosATM.pdb
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.AssemblyInfo.cs
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.sourcelink.json
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.dll
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\obj\Debug\net8.0\refint\AppConHilosATM.dll
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.pdb
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\obj\Debug\net8.0\AppConHilosATM.genruntimeconfig.cache
+C:\Users\Dani\Desktop\Proceso zombie\Codigo\dsr\AppConHilosATM\obj\Debug\net8.0\ref\AppConHilosATM.dll
